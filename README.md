@@ -1,5 +1,5 @@
 # PullDataCAFCI
-The code pulls and organices data available through the public CAFCI API
+The code pulls and organizes data available through the public CAFCI API
 
 ## Development
 
